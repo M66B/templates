@@ -27,7 +27,7 @@ All pins necessary for flashing are labelled on the module PCB.
 
 | GPIO | Function | Label
 | ---  | ---      |
-| GPIO12 | Button_i | Button (not working)
+| GPIO16 | Button_i |
 | GPIO14 | Relay2 | L2
 | GPIO17 | Ledi 1 | Blue LED (connection status)
 | GPIO18 | Ledi 2 | Red LED (relay 1 and 2 status)
